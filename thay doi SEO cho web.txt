@@ -1,0 +1,28 @@
+
+     Toàn bộ thư mục Source code của website (HTML, CSS, images…)
+
+
+   File mô tả URL đến website đã đưa lên mạng Internet
+
+
+
+
+
+
+ File .doc mô tả đã tiến hành 
+vao http://google.com/webmasters check loi
+1-ầu tiên đó là khả năng truy cập (accessibility), nghĩa là
+2-keyword tim keyword trong kwfinder.com có kết quả tìm kiếm và từ khó tốt nhất trong file excel
+3-content
+4-design
+5-social fb
+6-dua personal link to comment
+vao google Adwords->website search->chon head title ngan va keyword 
+thi du: thay doi title "atlantic city tour" ket qua tim kiem=
+va : DO-AC (do something in Atlantic City) ket qua tim kiem=
+
+
+Chụp lại hình ảnh việc đã tiến hành submit trang lên google để thực hiện indexing.
+
+
+Chụp lại hình ảnh thống kê Google Analytics của trang
